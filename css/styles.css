@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Port+Lligat+Slab&display=swap');
+
+body{
+    background-image: url(../img/bg-liso.jpg);
+    font-family: 'Port Lligat Slab', sans-serif;
+    color: #000;
+    width: 800px;
+    margin: auto;    
+    padding: 10px;
+}
+
+p, div, li{
+    font-size: 20px;
+    text-align: justify;
+}
+
+p{
+    padding: 5px 0px;
+}
+
+h1{
+    font-size: 35px;
+    text-align: center;
+}
+
+h2{
+    font-size: 28px;
+    text-align: center;
+    margin: 10px 0px;
+    background: url(../img/highlight1.png) no-repeat center;
+}
+
+h3{
+    font: 24px;
+    color: #a62f24ff;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+table{
+    background-color: #C9C234; 
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: #1F7354	;
+}
+
+div{
+    padding: 15px;
+    background-size: contain;
+    font-weight: bold;
+    background-color: rgba(166, 47, 36, 0.75);
+    border-radius:25px;
+}
+
+.diff{
+    font-weight: bold;
+    border: none;
+    padding: 5px;
+    background: none;
+    text-align: center;
+    
+}
+#illustration{
+    width: 800px;
+    height: 150px;
+    background: url(../img/espinafre.png) repeat-x;
+    background-color: none;
+}
